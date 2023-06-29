@@ -3,7 +3,9 @@
 - 👀 I’m interested in web development, DevOps, nature, and art.
 - 🌱 I’m currently learning all-the-things related to cloud and automation.
 
+<!---
 [![StarMoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=starmoss&count_private=true&show_icons=true&theme=cobalt)](https://github.com/starmoss/github-readme-stats)
+--->
 
 <!-- [
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starmoss&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
