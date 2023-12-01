@@ -1,7 +1,8 @@
 
 ## 👋 Hi, I’m @StarMoss! ##
-- 👀 I’m interested in web development, DevOps, nature, and art.
-- 🌱 I’m currently learning all-the-things related to cloud and automation.
+
+![octocat-1701457341413](https://github.com/StarMoss/StarMoss/assets/65978328/6cbffb77-29f8-42d1-a65c-efdf1313fae4)
+
 
 <!---
 [![StarMoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=starmoss&count_private=true&show_icons=true&theme=cobalt)](https://github.com/starmoss/github-readme-stats)
