@@ -5,33 +5,55 @@
 - [Design Patterns](https://refactoring.guru/design-patterns)
 - [Design Patterns - Factory Method](https://refactoring.guru/design-patterns/factory-method)
 
-## Python
+## Linux
 
-- [Python Virtual Environments Primer](https://realpython.com/python-virtual-environments-a-primer/)
-
-- [Understanding Python Virtual Environments](https://medium.com/@sukul.teradata/understanding-python-virtual-environments-using-venv-and-virtualenv-283f37d24b13#:~:text=Only%20difference%20is%20that%20virtualenv,part%20of%20python%20standard%20library.&text=Removing%20a%20virtual%20environment%20is,nothing%20more%20than%20a%20directory.)
-
+- [GNU Software](https://www.gnu.org/software/software.html)
+- [Sad Servers](https://sadservers.com/)
+ 
 ## Git
 
 - [Guide to Git Merge and Git Rebase](https://www.freecodecamp.org/news/the-ultimate-guide-to-git-merge-and-git-rebase/)
 
+## GitHub
+
+- [Hubot](https://hubot.github.com/)
+- [GitHub Actions](https://docs.github.com/en/actions)
+- [Security Hardening for GitHub Actions](https://docs.github.com/en/actions/security-guides/security-hardening-for-github-actions)
+- [GitHub Blog](https://github.blog/)
+- [Merge Methods](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges/about-merge-methods-on-github)
+- 
+
+
 ## Terraform
 
 - [Terraform Docs](https://github.com/terraform-docs/terraform-docs)
+- [Terragrunt](https://terragrunt.gruntwork.io/)
+- [Terraform Config Inspect](https://github.com/hashicorp/terraform-config-inspect)
 
 ## Platform Engineering
 
 - [Platform Weekly](https://platformweekly.com/)
 - [Platform Engineering](https://platformengineering.org/)
+ 
+## Python
+
+- [Python Virtual Environments Primer](https://realpython.com/python-virtual-environments-a-primer/)
+- [Understanding Python Virtual Environments](https://medium.com/@sukul.teradata/understanding-python-virtual-environments-using-venv-and-virtualenv-283f37d24b13#:~:text=Only%20difference%20is%20that%20virtualenv,part%20of%20python%20standard%20library.&text=Removing%20a%20virtual%20environment%20is,nothing%20more%20than%20a%20directory.)
+
+## Go
+
+- [Go](https://go.dev/)
 
 ## Networking
 
 - [Understand TCP/IP addressing and subnetting basics](https://learn.microsoft.com/en-us/troubleshoot/windows-client/networking/tcpip-addressing-and-subnetting)
-- [https://cidr.xyz/](IP CIDR Calculator)
+- [CIDR Calculator](https://cidr.xyz/)
 
 ## VSCode
 
 - [Multi-root workspaces](https://code.visualstudio.com/docs/editor/multi-root-workspaces)
+- [VSCode Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
+- [User and Workspace Settings](https://code.visualstudio.com/docs/configure/settings)
 
 ## APIs
 
@@ -42,12 +64,22 @@
  - [Sesame](https://www.sesame.com/)
  - [Kaggle](https://www.kaggle.com)
  - [Claude](https://claude.ai/login?returnTo=%2F%3F)
+ - [Claude Sonnet](https://www.anthropic.com/claude/sonnet)
+ - 
 
  ## Data Engineering
 
 - [Apache Iceberg  - The Definitive Guide](https://www.dremio.com/wp-content/uploads/2023/02/apache-iceberg-TDG_ER1.pdf)
 
 ## Snowflake
+
+## Docker
+
+- [Run Ubuntu as a Docker Container](https://www.makeuseof.com/run-ubuntu-as-docker-container/)
+
+## Home Assistant
+- [Home Assistant Companion Docs](https://companion.home-assistant.io/)
+- [Home Networking](https://stevessmarthomeguide.com/home-network-addressing/)
 
  
 ## Microservces
