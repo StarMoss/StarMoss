@@ -74,6 +74,7 @@
  - [Kaggle](https://www.kaggle.com)
  - [Claude](https://claude.ai/login?returnTo=%2F%3F)
  - [Claude Sonnet](https://www.anthropic.com/claude/sonnet)
+ - [A developer’s guide to prompt engineering and LLMs](https://github.blog/ai-and-ml/generative-ai/prompt-engineering-guide-generative-ai-llms/)
 
  ## Data Engineering
 
