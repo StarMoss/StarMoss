@@ -9,6 +9,7 @@
 
 - [Design Patterns](https://refactoring.guru/design-patterns)
 - [Design Patterns - Factory Method](https://refactoring.guru/design-patterns/factory-method)
+- [Hexagonal Architecture](https://alistair.cockburn.us/hexagonal-architecture)
 
 ## Linux
 
@@ -37,6 +38,8 @@
 - [Terraform Docs](https://github.com/terraform-docs/terraform-docs)
 - [Terragrunt](https://terragrunt.gruntwork.io/)
 - [Terraform Config Inspect](https://github.com/hashicorp/terraform-config-inspect)
+- [Terratest](https://terratest.gruntwork.io/)
+- 
 
 ## Platform Engineering
 
@@ -52,6 +55,7 @@
 
 - [Go](https://go.dev/)
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests)
+- 
 
 ## Networking
 
