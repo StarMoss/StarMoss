@@ -39,7 +39,8 @@
 - [Terragrunt](https://terragrunt.gruntwork.io/)
 - [Terraform Config Inspect](https://github.com/hashicorp/terraform-config-inspect)
 - [Terratest](https://terratest.gruntwork.io/)
-- 
+- [Dependency Graph - Walking the Graph](https://developer.hashicorp.com/terraform/internals/graph#walking-the-graph)
+- [Applying Graph Theory to Infrastructure as Code](https://www.youtube.com/watch?v=Ce3RNfRbdZ0)
 
 ## Platform Engineering
 
@@ -70,7 +71,7 @@
 
 ## APIs
 
-- [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html)
+ - [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html)
 
  ## AI
  
@@ -91,13 +92,21 @@
 
 - [Run Ubuntu as a Docker Container](https://www.makeuseof.com/run-ubuntu-as-docker-container/)
 
+
+## Kubernetes
+
+- [Kubernetes Documentation](https://kubernetes.io/docs/home/)
+- [Kind](https://kind.sigs.k8s.io/)
+- [Helm Cheat Sheet](https://helm.sh/docs/intro/cheatsheet/)
+
+  
 ## Home Assistant
 - [Home Assistant Companion Docs](https://companion.home-assistant.io/)
 - [Home Networking](https://stevessmarthomeguide.com/home-network-addressing/)
 
 ## Books
 
-- https://www.oreilly.com/library/view/high-performance-linux/0596005709/ch01.html
+- [High-performance Linux](https://www.oreilly.com/library/view/high-performance-linux/0596005709/ch01.html)
 
  
 ## Microservces
