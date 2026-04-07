@@ -1,8 +1,30 @@
+<img src="https://github.com/StarMoss/StarMoss/assets/65978328/6cbffb77-29f8-42d1-a65c-efdf1313fae4" width="10%">  Hi, I’m @StarMoss!
 
-## 👋 Hi, I’m @StarMoss! ##
+I’m a platform and DevOps engineer focused on building scalable, well-governed data platforms. My work sits at the intersection of infrastructure, data, and developer experience—turning complex systems into something usable, repeatable, and reliable.
 
-![octocat-1701457341413](https://github.com/StarMoss/StarMoss/assets/65978328/6cbffb77-29f8-42d1-a65c-efdf1313fae4)
+🌱 What I’m working on
 
+- Designing data platforms as code using Terraform and Snowflake
+- Building CI/CD systems with GitHub Actions
+- Exploring AI-enabled data workflows (Snowflake Cortex, automation, insights)
+- Developing modular, multi-environment infrastructure (Azure, AWS, Kubernetes)
+
+🌿 What you’ll find here
+
+- Real-world style platform engineering projects
+- Terraform module design and infrastructure patterns
+- Data platform architecture (lakehouse, orchestration, governance)
+- Experiments with AI in practical, non-hypey ways
+
+
+### 🛠️ Tech Stack
+
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
 <!---
 [![StarMoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=starmoss&count_private=true&show_icons=true&theme=cobalt)](https://github.com/starmoss/github-readme-stats)
