@@ -6,7 +6,7 @@ I’m a platform and DevOps engineer focused on building scalable, well-governed
 
 - Designing data platforms as code using Terraform and Snowflake
 - Building CI/CD systems with GitHub Actions
-- Exploring AI-enabled data workflows (Snowflake Cortex, automation, insights)
+- Exploring AI-enabled data workflows
 - Developing modular, multi-environment infrastructure (Azure, AWS, Kubernetes)
 
 🌿 What you’ll find here
