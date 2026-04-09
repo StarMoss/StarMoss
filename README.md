@@ -14,7 +14,7 @@ I’m a platform and DevOps engineer focused on building scalable, well-governed
 - Real-world style platform engineering projects
 - Terraform module design and infrastructure patterns
 - Data platform architecture (lakehouse, orchestration, governance)
-- Experiments with AI in practical, non-hypey ways
+- Experiments with AI
 
 
 ### 🛠️ Tech Stack
