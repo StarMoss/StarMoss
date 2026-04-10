@@ -26,10 +26,12 @@ I’m a platform and DevOps engineer focused on building scalable, well-governed
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
+<!--
 [![StarMoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=starmoss&count_private=true&show_icons=true&theme=cobalt)](https://github.com/starmoss/github-readme-stats)
+--!>
 
-<!-- [
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starmoss&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starmoss&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 --!>
 
 How to reach me:
