@@ -1,6 +1,6 @@
 <img src="https://github.com/StarMoss/StarMoss/assets/65978328/6cbffb77-29f8-42d1-a65c-efdf1313fae4" width="10%">  Hi, I’m @StarMoss!
 
-I’m a platform and DevOps engineer focused on building scalable, well-governed data platforms. My work sits at the intersection of infrastructure, data, and developer experience—turning complex systems into something usable, repeatable, and reliable.
+I’m a Platform and DevOps engineer focused on building scalable, well-governed data platforms. My work sits at the intersection of infrastructure, data, and developer experience, turning complex systems into something usable, repeatable, and reliable.
 
 🌱 What I’m working on
 
